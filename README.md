@@ -1,2 +1,2 @@
 # test-repository
-Repository as par of test
+Repository as part of test
